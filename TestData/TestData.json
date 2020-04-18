@@ -1,0 +1,37 @@
+{
+  "TestCase": [
+
+    {
+      "TestCaseName": "Tc_01",
+      "Gender": "Male",
+      "FirstName": "Prathap",
+      "LastName": "Veera",
+      "Day": "9",
+      "Month": "August",
+      "Year": "1990",
+      "Email": "abc@gmail.com",
+      "Password": "Pass1234",
+      "ConfirmPassword": "Pass1234"
+    },
+    {
+      "TestCaseName": "Tc_02",
+      "Gender": "Male",
+      "FirstName": "Prathap",
+      "LastName": "Veera",
+      "Day": "9",
+      "Month": "August",
+      "Year": "1990",
+      "Email": "abc@gmail.com",
+      "Password": "Pass1234",
+      "ConfirmPassword": "Pass1234"
+    }
+
+
+
+
+
+  ]
+
+
+
+}
